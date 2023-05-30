@@ -23,8 +23,3 @@ while True:
 total_sum = sum(new_list)
 # Вивдимо результат
 print(total_sum)
-
-
-
-
-
